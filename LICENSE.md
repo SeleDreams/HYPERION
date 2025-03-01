@@ -9,3 +9,4 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 # CC-BY License (For the sample and other artistic files)
 https://creativecommons.org/licenses/by/4.0/deed
+Crediting the HYPERION voicebank itself is preferred if used in a song.
