@@ -1,0 +1,4 @@
+name=Hyperion
+author=SeleDreams
+image=character.bmp
+version=01/03/2025 ALPHA
